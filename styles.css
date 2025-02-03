@@ -1,0 +1,19 @@
+.card{
+    width: 50%;
+    margin: 2% 25% 2% 25%;
+    background-color: black;
+    text-align: center;
+    border: 30px solid black;
+
+}
+
+img{
+    width: 100%;
+}
+
+.card_text{
+    font-family: "Playwrite ES Deco", serif;
+    font-weight: 800;
+    color : #ffff3f;
+    padding: 10px;
+}
